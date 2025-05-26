@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\_Nova_ Power of Attorney.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          C2F4964CDD16461C84BE929DD33ED1B4AFB8778BA408320B444CDCF51FDF3E82       C:\Users\woods\Documents\GitH...
+
+
+PS C:\Users\woods>
