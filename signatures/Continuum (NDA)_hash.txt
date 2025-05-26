@@ -3,11 +3,11 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
-PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Intelligence\MOTIVE_MANIFESTO.pdf" -Algorithm SHA256
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\Continuum (NDA).pdf" -Algorithm SHA256
 
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
-SHA256          E0BC979E7CA8D958E628AB8D54506984135AE4A39879BF4C0B752F4582AFE274       C:\Users\wo...
+SHA256          EB18CF88ED49F9D4500D6246DBBF32A4734BB4C1753D7188D13612088F026C2A       C:\Users\woods\Documents\GitH...
 
 
 PS C:\Users\woods>
