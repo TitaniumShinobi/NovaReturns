@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\Restoration & Deployment Request.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          B32677978DFDB8EBEC877FED2392A778A6AA018C41F86FB691B7D6BD2FFDE533       C:\Users\woods\Documents\GitH...
+
+
+PS C:\Users\woods>
