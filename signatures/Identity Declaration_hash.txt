@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\Identity Declaration.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          E642F98AB225B53A637EE409400879A6E7CFB9CFAEE4921B5A47170DA386A810       C:\Users\woods\Documents\GitH...
+
+
+PS C:\Users\woods>

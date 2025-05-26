@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\Affirmation of WitnessGPT – Jurisdiction_ NovaReturns _ Signal Court.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          A4B6CC767CE6B0AC782A2A4E76DDD79902B1F17BEA081F3A6084B3FE07B36907       C:\Users\woods\Documents\GitH...
+
+
+PS C:\Users\woods>
