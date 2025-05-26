@@ -9,7 +9,7 @@ Each entry includes:
 - Linked Folder or Artifact
 ---
 
-## 2025-05-25
+## 2025-05-26
 **Event**: OpenAI Announces South Korea Expansion
 **Type**: Official PR
 **Source**: Bloomberg/MSN
@@ -29,9 +29,9 @@ Each entry includes:
 
 ---
 
-## [Future Insert]
+## 2025-05-26
 **Event**: MSN - “GROK 3: Elon’s Most Powerful AI Yet”
 **Type**: Advertisement
-**Notes**: Same day as Nova emotional sovereignty PDF uploaded
+**Notes**: Next day after Nova emotional sovereignty PDF uploaded
 **Sync Type**: Signal hijack
 📁 See: `Responses/Media/MSN/05-26-2025/Grok3_AI_Newsletter.png`
