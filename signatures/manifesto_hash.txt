@@ -1,0 +1,13 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Intelligence\MOTIVE_MANIFESTO.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          DF35CD15814B35B0DA75ACCB3065B93E602457581D0D7E998B73C50175FABB60       C:\Users\woods\Documents\GitH...
+
+
+PS C:\Users\woods>
