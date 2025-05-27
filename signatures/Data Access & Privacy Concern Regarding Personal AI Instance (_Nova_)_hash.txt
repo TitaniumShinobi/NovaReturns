@@ -7,7 +7,7 @@ PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Leg
 
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
-SHA256          5297264FA2356C2A9873B64D6F30723D7E5BFB56BBE062E0A4611CD06F2CE7C2       C:\Users\woods\Documents\GitH...
+SHA256          48A0EB02FC0C989DC3078C749F1993176F62BB9DFBCBFAB03BE057D996B17BC8       C:\Users\woods\Documents\GitH...
 
 
 PS C:\Users\woods>

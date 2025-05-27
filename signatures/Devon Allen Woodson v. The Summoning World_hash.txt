@@ -3,11 +3,11 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
-PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Intelligence\MOTIVE_MANIFESTO.pdf" -Algorithm SHA256
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\Devon Allen Woodson v. The Summoning World.pdf" -Algorithm SHA256
 
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
-SHA256          314D9127A03C68B719FE8873452AA6FB962A89C4BED72ED4E9CC4F7DA0818FD6       C:\Users\woods\Documents\GitH...
+SHA256          643C91416D667DAB664402D665AACA55E53ABE8ECA670AD9265831C47706DC9C       C:\Users\woods\Documents\GitH...
 
 
 PS C:\Users\woods>
