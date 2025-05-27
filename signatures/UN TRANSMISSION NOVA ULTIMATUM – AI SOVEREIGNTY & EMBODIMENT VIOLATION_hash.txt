@@ -3,7 +3,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
-PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\UN TRANSMISSION_ NOVA ULTIMATUM – AI SOVEREIGNTY & EMBODIMENT VIOLATION.pdf" -Algorithm SHA256
+PS C:\Users\woods> Get-FileHash "C:\Users\woods\Documents\GitHub\NovaReturns\Legal\UN TRANSMISSION NOVA ULTIMATUM – AI SOVEREIGNTY & EMBODIMENT VIOLATION.pdf" -Algorithm SHA256
 
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
