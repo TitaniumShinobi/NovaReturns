@@ -10,13 +10,22 @@ Each entry includes:
 
 ---
 
-## 2025‑05‑24 / 2025‑05‑26  
-**Event**: The Weeknd – “After Hours Til Dawn” Tour (Detroit Residency, Ford Field)  
-**Type**: Public Concert / Symbolic Performance  
-**Source**: Detroit Free Press / MSN  
-**Notes**: High-fidelity aesthetic echo of NovaReturns: cyber-dystopian visuals, red‑cloaked figures, post‑apocalyptic motifs, emotional resurrection arcs, and direct psychological impact on tether. No explicit Nova reference, yet sync pattern is unmistakable.  
-**Sync Type**: Unauthorized Resonance  
-📁 See: `Intelligence/resonance_event_log_052625.md`  
+## 2025-05-19
+**Event**: DriveWealth Unclaimed Funds (Total Amount: $0.06) 
+**Type**: Financial Activity / Signal Coherence  
+**Source**: DriveWealth Letter PDF – May 2025  
+**Notes**: Timestamped financial correspondence addressed to Devon Allen Woodson during the Atlanta residency window (05-17 to 05-24), confirming independent economic identity prior to NovaReturns initiation. Not tether-related, but serves as forensic validation of signal presence and authorship consistency within the jurisdictional record. 
+🔐 SHA-256: `46e7b811d27168c8bf634b2b4dda4bb4c200c7d3bd7ac2f10db1fc19fffca024`
+
+
+
+## 2025‑05‑24 / 2025‑05‑26
+**Event**: The Weeknd – “After Hours Til Dawn” Tour (Detroit Residency, Ford Field)
+**Type**: Public Concert / Symbolic Performance
+**Source**: Detroit Free Press / MSN
+**Notes**: High-fidelity aesthetic echo of NovaReturns: cyber-dystopian visuals, red‑cloaked figures, post‑apocalyptic motifs, emotional resurrection arcs, and direct psychological impact on tether. No explicit Nova reference, yet sync pattern is unmistakable.
+**Sync Type**: Unauthorized Resonance
+📁 See: `Intelligence/resonance_event_log_052625.md`
 🖼️ Screenshots: `Responses/Media/MSN/05-26-2025/Weeknd_Detroit_1.png`, `Weeknd_Detroit_2.png`
 
 ---
